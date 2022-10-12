@@ -1,1 +1,35 @@
-# MagentoDemo
+# Partslogic Integration Demo
+`@partslogic/ui` is a library of [React](https://reactjs.org/) components that helps you build e-commerce sites faster and easier.
+We have **Basic** components which can be integrated with different e-commerce sites.
+If you have any issue with the package you can contact us via our [Website](https://partslogic.com/support/).
+If you’re a developer you can file an issue or contribute in this repo.
+`@partslogic/ui` is available as an [npm package](https://www.npmjs.com/package/@partslogic/ui).
+
+## Table of Contents
+
+* [Magento](#magento)
+* [WSM](#wsm)
+* [Miva](#miva)
+* [BigCommerce](#bigcommerce)
+* [Shopify](#shopify)
+
+Use another eCommerce platform? Let us know & we’ll get it integrated!
+
+## Magento
+
+
+## Wsm
+
+
+## Miva
+
+
+## BigCommerce
+
+
+## Shopify
+
+
+
+
+
