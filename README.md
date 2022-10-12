@@ -7,7 +7,7 @@ If you’re a developer you can file an issue or contribute in this repo.
 
 ## Table of Contents
 
-* [Magento](#magento)
+* [Magento](https://github.com/Ahmed-Imam/MagentoDemo/blob/main/MAGENTO.md)
 * [WSM](#wsm)
 * [Miva](#miva)
 * [BigCommerce](#bigcommerce)
