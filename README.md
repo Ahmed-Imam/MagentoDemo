@@ -8,26 +8,12 @@ If you’re a developer you can file an issue or contribute in this repo.
 ## Table of Contents
 
 * [Magento](https://github.com/Ahmed-Imam/MagentoDemo/blob/main/MAGENTO.md)
-* [WSM](#wsm)
-* [Miva](#miva)
+* [WSM](https://github.com/Ahmed-Imam/MagentoDemo/blob/main/WSM.md)
+* [Miva](https://github.com/Ahmed-Imam/MagentoDemo/blob/main/MIVA.md)
 * [BigCommerce](#bigcommerce)
 * [Shopify](#shopify)
 
 Use another eCommerce platform? Let us know & we’ll get it integrated!
-
-## Magento
-
-
-## Wsm
-
-
-## Miva
-
-
-## BigCommerce
-
-
-## Shopify
 
 
 
