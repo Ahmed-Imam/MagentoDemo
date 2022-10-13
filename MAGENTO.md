@@ -61,7 +61,7 @@ var config = {
 
 ## Install PL CSS
 
-In this file you will find a sample of CSS to reference the different classnames and ids and adjust it according to the need of your theme, then you will need to include it in the head of the site
+In [this file](Magento-Demo-Theme/app/design/frontend/Zemez/theme098/web/css/sample.css) you will find a sample of CSS to reference the different classnames and ids and adjust it according to the need of your theme, then you will need to include it in the head of the site
 
 In `app/design/frontend/<Theme Name>/theme/web/css` add the css fine, its better to minify the css file for better site speed and accessibility. 
 you can add more css files to it if your site theme needs so.
