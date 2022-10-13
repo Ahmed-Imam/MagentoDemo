@@ -226,4 +226,53 @@ Each website will be different and the placement of this component in the file s
 </style>
 
 ```
+Next, you can add it to a specific page using the same method of the search result by including the below snippet to the content of the page:
+
+```
+   <div class="ymm-product-search-view" id="partslogic-fitment-selector">
+       <div class="container">
+           <div class="finderProducts">
+            <div id="pl-fitment-selector-container"></div>
+   {{block class="Magento\Framework\View\Element\Template" template="Magento_Theme::partslogic-search/partslogic-component-fitmentselector.phtml"}}</div>
+         </div>
+      </div>
+   </div>
+```
+
+Another approach is to create a new block and add it to the widget:
+- Navigate to `Content/Elements/Blocks` 
+
+<img width="350" alt="blocks" src="https://user-images.githubusercontent.com/20854551/195609123-c38fbf62-ac47-4fb1-9820-5c038a70da2d.png">
+
+- Add new block 
+- Add the above snippet to the new block 
+
+<img width="350" alt="Screen Shot 2022-10-13 at 4 27 43 PM" src="https://user-images.githubusercontent.com/20854551/195609723-b4fad27d-ef57-421f-a10a-bef7f3d9eeb8.png">
+
+Once the block is created now we can add it to the widgets so we can display it in a specific page
+
+- Navigate to `Content/Elements/Widgets` 
+
+<img width="350" alt="Screen Shot 2022-10-13 at 4 29 56 PM" src="https://user-images.githubusercontent.com/20854551/195610343-6f4020ee-5fd8-48bf-b0dd-dcdab12b088b.png">
+
+- Add a new widget 
+- Click on the widget option 
+- Select the block that you just created above
+
+<img width="350" alt="Screen Shot 2022-10-13 at 4 32 27 PM" src="https://user-images.githubusercontent.com/20854551/195610940-5ef8c12c-d58f-48c4-a291-b28a7eea2736.png">
+
+Now, lets add it to the layout
+
+- Click on frontend properties in the widget page 
+- Scroll down to the layout update 
+- Add a new layout updates
+- Select Specific page to dispay on 
+- Save and clear cache 
+
+<img width="350" alt="Screen Shot 2022-10-13 at 4 36 01 PM" src="https://user-images.githubusercontent.com/20854551/195611994-f2bf4720-55cf-4f6b-aeb8-80a540abf22e.png">
+
+
+
+
+
 
