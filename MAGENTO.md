@@ -35,7 +35,9 @@ First thing first, we need to install the following libraries:
 - [React](https://unpkg.com/react@17/umd/react.production.min.js)
 - [PartsLogic](https://unpkg.com/@partslogic/ui@0.0.17-alpha.0/build/index.umd.js)
 
-after installing the above libraries, navigate to your Magento app `app/design/frontend/<Theme Name>/theme/web/js` and upload the above files so we can access them in the next step
+After installing the above libraries, navigate to your Magento app `app/design/frontend/<Theme Name>/theme/web/js` and upload the above files so we can access them in the next step
+
+<img width="350" alt="Libraries" src="https://user-images.githubusercontent.com/20854551/195536593-a08ba61f-514a-4ebe-b4e0-6807f51984c0.png">
 
 ## Install PL CSS
 This template follows a very simple project structure:
