@@ -16,7 +16,7 @@ To install the PL components in Magento, it will require a combination of access
 
 ## Prerequisites
 
--  To use the PL Search Engine you will need an active PL account. If you don’t have an account you can sign up [here](https://partslogic.com/pricing/](https://partslogic.com/request-demo/)). See plans and pricing [here](https://partslogic.com/pricing/).
+-  To use the PL Search Engine you will need an active PL account. If you don’t have an account you can sign up [here](https://partslogic.com/pricing/](https://partslogic.com/request-demo/). See plans and pricing [here](https://partslogic.com/pricing/).
 - Create the required API key for the PartsLogic ETL process in the Admin Panel, this step is typically executed by our developers once the API is ready.
 
 ## REST API
