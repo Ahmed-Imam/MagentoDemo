@@ -1,7 +1,7 @@
 
 PartsLogic Magento Integration
 ======
-To install the PL components, it will require a combination of accessing the Magento Admin Panel and uploading/editing files via SFTP for the backend files.
+To install the PL components in Magento, it will require a combination of accessing the Magento Admin Panel and uploading/editing files via SFTP for the backend files.
 ## Table of Contents
 
 * [Prerequisites](#prerequisites)
